@@ -8,8 +8,8 @@ Arduino bluetooth car control by using an android app
 
 
 **Kit-ul conține: **
-Un șasiu;
-Două roți;
+->Un șasiu;
+->Două roți;
 Două motoare ce pot fi dotate cu sistem de encoder;
 O a treia roată ce nu este acționată de motor și se poate mișca și pe axa orizontală;
 Soclu 4 baterii AA;
