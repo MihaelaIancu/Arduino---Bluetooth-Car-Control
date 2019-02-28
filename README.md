@@ -7,6 +7,7 @@ Arduino bluetooth car control by using an android app
 * Modul Bluetooth Master Slave HC-05 cu Adaptor (compatibil 3.3 V si 5 V)
 * Modul cu Driver de Motoare Dual L298N Rosu
 * 4 baterii AA
+* 1 baterie 9V
 * Switch (On/Off Button)
 * Fir pentru Baterie de 9V cu Mufa DC
 * 2 Rezistente 10K Ohm
