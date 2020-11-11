@@ -31,4 +31,4 @@ Folosind o aplicatie descarcata pe android, jucatorul trebuie sa miste masina, c
 
 **Codul jocului se gaseste in:** masinuta.ino
 
-**Link cu video-ul jocului:** 
+
